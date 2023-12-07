@@ -1,0 +1,400 @@
+{
+    "light_vehicles": [
+        {
+            "type": "light_vehicles",
+            "className": "rhsusf_mrzr4_d",
+            "supply": 75,
+            "ammo": 0,
+            "fuel": 75,
+            "description": "MRZR4(Recon)"
+        },
+        {
+            "type": "light_vehicles",
+            "className": "rhsusf_M1078A1P2_D_fmtv_usarmy",
+            "supply": 75,
+            "ammo": 0,
+            "fuel": 75,
+            "description": "FMTVUSARMY(TRANSPORT)"
+        },
+        {
+            "type": "light_vehicles",
+            "className": "rhsusf_M1083A1P2_B_M2_D_fmtv_usarmy",
+            "supply": 75,
+            "ammo": 50,
+            "fuel": 75,
+            "description": "FMTV-M2USARMY(TRANSPORT)"
+        },
+        {
+            "type": "light_vehicles",
+            "className": "UK3CB_MDF_B_LSV_02_Armed",
+            "supply": 100,
+            "ammo": 100,
+            "fuel": 100,
+            "description": "QuilinLSVArmed"
+        },
+        {
+            "type": "light_vehicles",
+            "className": "rhsusf_m1165a1_gmv_m134d_m240_socom_d",
+            "supply": 225,
+            "ammo": 100,
+            "fuel": 125,
+            "description": "GMV-M134D-M240(TRANSPORT)"
+        },
+        {
+            "type": "light_vehicles",
+            "className": "rhsusf_stryker_m1127_m2_d",
+            "supply": 150,
+            "ammo": 50,
+            "fuel": 150,
+            "description": "M1127-M2/LRAS3STRYKER(ARMOREDTRANSPORT)"
+        },
+        {
+            "type": "light_vehicles",
+            "className": "rhsusf_M1220_M2_usarmy_d",
+            "supply": 125,
+            "ammo": 50,
+            "fuel": 125,
+            "description": "M1220(O-GPK/M2)"
+        },
+        {
+            "type": "light_vehicles",
+            "className": "rhsusf_m1240a1_m240_usarmy_d",
+            "supply": 100,
+            "ammo": 25,
+            "fuel": 100,
+            "description": "MrapM1240(O-GPK/M240)"
+        },
+        {
+            "type": "light_vehicles",
+            "className": "rhsusf_m1240a1_m2_usarmy_d",
+            "supply": 100,
+            "ammo": 50,
+            "fuel": 100,
+            "description": "MrapM1240(O-GPK/M2)"
+        }
+    ],
+    "recon_vehicles": [
+        {
+            "type": "recon_vehicles",
+            "className": "B_Quadbike_01_F",
+            "supply": 50,
+            "ammo": 0,
+            "fuel": 50,
+            "description": "PhantomQuad(Recon)"
+        },
+        {
+            "type": "recon_vehicles",
+            "className": "rhsusf_m998_w_4dr",
+            "supply": 75,
+            "ammo": 0,
+            "fuel": 75,
+            "description": "PhantomM1097A2(Recon)"
+        },
+        {
+            "type": "recon_vehicles",
+            "className": "B_LSV_01_unarmed_F",
+            "supply": 75,
+            "ammo": 0,
+            "fuel": 75,
+            "description": "PhantomQuilinLSV(Recon)"
+        }
+    ],
+    "artillery_vehicles": [
+        {
+            "type": "artillery_vehicles",
+            "className": "pook_MLRS_BLUFOR",
+            "supply": 1100,
+            "ammo": 1100,
+            "fuel": 500,
+            "description": "SavageMLRS(M983Tractor)"
+        },
+        {
+            "type": "artillery_vehicles",
+            "className": "rhsusf_m109_usarmy",
+            "supply": 1200,
+            "ammo": 1300,
+            "fuel": 700,
+            "description": "SavageM109A6Paladin"
+        },
+        {
+            "type": "artillery_vehicles",
+            "className": "itc_land_b_vls2_slam",
+            "supply": 4500,
+            "ammo": 5000,
+            "fuel": 0,
+            "description": "SavageMN230VLS(CruiseMissile)"
+        }
+    ],
+    "atgm_vehicles": [
+        {
+            "type": "atgm_vehicles",
+            "className": "UK3CB_CW_US_B_LATE_M151_Jeep_TOW",
+            "supply": 50,
+            "ammo": 75,
+            "fuel": 50,
+            "description": "WraithM151Jeep(TOW)"
+        },
+        {
+            "type": "atgm_vehicles",
+            "className": "rhsusf_m966_d",
+            "supply": 100,
+            "ammo": 200,
+            "fuel": 100,
+            "description": "WraithTOWHumvee(TOW)"
+        },
+        {
+            "type": "atgm_vehicles",
+            "className": "rhsusf_stryker_m1134_d",
+            "supply": 350,
+            "ammo": 250,
+            "fuel": 150,
+            "description": "WraithM1134Stryker(ATGM)"
+        }
+    ],
+    "aa_vehicles": [
+        {
+            "type": "aa_vehicles",
+            "className": "pook_CRAM_BASE",
+            "supply": 350,
+            "ammo": 350,
+            "fuel": 300,
+            "description": "Harpy(C-RAMAirDefenseSystem)"
+        },
+        {
+            "type": "aa_vehicles",
+            "className": "pook_NASAMS_BASE",
+            "supply": 450,
+            "ammo": 250,
+            "fuel": 250,
+            "description": "Harpy(NationalAdvancedSurfaceto-AirMissleSystem)"
+        },
+        {
+            "type": "aa_vehicles",
+            "className": "UK3CB_KRG_B_M270_Avenger",
+            "supply": 650,
+            "ammo": 450,
+            "fuel": 250,
+            "description": "Harpy(M270Avenger)"
+        }
+    ],
+    "heavy_vehicles": [
+        {
+            "type": "heavy_vehicles",
+            "className": "rhsusf_m1151_m2crows_usmc_d",
+            "supply": 125,
+            "ammo": 100,
+            "fuel": 50,
+            "description": "M1151-M2-CROWS(ARMOREDHUMVEE)"
+        },
+        {
+            "type": "heavy_vehicles",
+            "className": "rhsusf_m1151_mk19crows_usarmy_d",
+            "supply": 225,
+            "ammo": 200,
+            "fuel": 175,
+            "description": "MK-19CROWS(HUMVEE)"
+        },
+        {
+            "type": "heavy_vehicles",
+            "className": "rhsusf_m1240a1_m2crows_usarmy_d",
+            "supply": 175,
+            "ammo": 100,
+            "fuel": 100,
+            "description": "MrapM1240A1(CROWS/M2)"
+        },
+        {
+            "type": "heavy_vehicles",
+            "className": "rhsusf_m1240a1_mk19crows_usarmy_d",
+            "supply": 175,
+            "ammo": 200,
+            "fuel": 100,
+            "description": "MrapM1240A1(CROWS/MK19)"
+        },
+        {
+            "type": "heavy_vehicles",
+            "className": "rhsusf_m1165a1_gmv_mk19_m240_socom_d",
+            "supply": 150,
+            "ammo": 250,
+            "fuel": 50,
+            "description": "M1165A1-MK19-CROWS(ARMOREDGMVHUMVEE)"
+        },
+        {
+            "type": "heavy_vehicles",
+            "className": "rhsusf_stryker_m1126_m2_d",
+            "supply": 350,
+            "ammo": 250,
+            "fuel": 150,
+            "description": "M1126-M2/CROWSTRYKER(ARMOREDTRANSPORT)"
+        },
+        {
+            "type": "heavy_vehicles",
+            "className": "rhsusf_stryker_m1126_mk19_d",
+            "supply": 350,
+            "ammo": 350,
+            "fuel": 150,
+            "description": "StrykerM-1126MK19(ARMOREDTRANSPORT)"
+        }
+    ],
+    "rotarylogi_vehicles": [
+        {
+            "type": "rotarylogi_vehicles",
+            "className": "RHS_MELB_MH6M",
+            "supply": 225,
+            "ammo": 0,
+            "fuel": 250,
+            "description": "MH6MLittlebird"
+        },
+        {
+            "type": "rotarylogi_vehicles",
+            "className": "vtx_MH60M",
+            "supply": 225,
+            "ammo": 0,
+            "fuel": 250,
+            "description": "MH-60MBlackhawk"
+        },
+        {
+            "type": "rotarylogi_vehicles",
+            "className": "vtx_HH60",
+            "supply": 225,
+            "ammo": 0,
+            "fuel": 225,
+            "description": "BansheePavehawk"
+        },
+        {
+            "type": "rotarylogi_vehicles",
+            "className": "RHS_CH_47F",
+            "supply": 475,
+            "ammo": 100,
+            "fuel": 500,
+            "description": "CH-47FChinook"
+        }
+    ],
+    "rotarycas_vehicles": [
+        {
+            "type": "rotarycas_vehicles",
+            "className": "RHS_MELB_AH6M_H",
+            "supply": 550,
+            "ammo": 400,
+            "fuel": 300,
+            "description": "AH-6MH(HELLFIRE)"
+        }
+    ],
+    "fixedwing_vehicles": [
+        {
+            "type": "fixedwing_vehicles",
+            "className": "ITC_Land_B_UAV_UCAVi",
+            "supply": 250,
+            "ammo": 0,
+            "fuel": 250,
+            "description": "UCAViSentinel2(Drone)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "B_T_UAV_03_dynamicLoadout_F",
+            "supply": 300,
+            "ammo": 0,
+            "fuel": 300,
+            "description": "MQ-12Falcon(Drone)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "FIR_F16C_ANG_FS",
+            "supply": 1250,
+            "ammo": 1250,
+            "fuel": 1300,
+            "description": "F-16Arkansas(MK82)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "FIR_F16C_ANG_SI",
+            "supply": 1300,
+            "ammo": 1275,
+            "fuel": 1300,
+            "description": "F-16Illinois(CAS)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "FIR_F16C_ANG_WI",
+            "supply": 1350,
+            "ammo": 1350,
+            "fuel": 1300,
+            "description": "F-16Wisconsin(SEAD)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "FIR_F16C_AS_2",
+            "supply": 1375,
+            "ammo": 1375,
+            "fuel": 1300,
+            "description": "F-16Alaska(SEAD)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "FIR_F16C_ANG_TX",
+            "supply": 1310,
+            "ammo": 1310,
+            "fuel": 1300,
+            "description": "F-16Texas(HeavyBomber)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "FIR_F16C_Interim",
+            "supply": 3000,
+            "ammo": 3000,
+            "fuel": 1300,
+            "description": "F-16Black(Cluster)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "FIR_F16C_ANG_MO",
+            "supply": 3000,
+            "ammo": 3000,
+            "fuel": 1300,
+            "description": "F-16Montana(HeavyBomber)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "USAF_F35A_LIGHT",
+            "supply": 1100,
+            "ammo": 1100,
+            "fuel": 800,
+            "description": "F35ALight(CAP)"
+        },
+        {
+            "type": "fixedwing_vehicles",
+            "className": "USAF_F35A_STEALTH",
+            "supply": 8000,
+            "ammo": 8000,
+            "fuel": 8000,
+            "description": "F35-Stealth(NuclerBomber)"
+        }
+    ],
+    "static_vehicles": [
+        {
+            "type": "static_vehicles",
+            "className": "I_HMG_02_high_F",
+            "supply": 50,
+            "ammo": 50,
+            "fuel": 0,
+            "description": "M2HMG.50(Raised)"
+        },
+        {
+            "type": "static_vehicles",
+            "className": "UK3CB_B_Static_M240_Elcan_High_US_W",
+            "supply": 25,
+            "ammo": 25,
+            "fuel": 0,
+            "description": "M-240High"
+        }
+    ],
+    "buildings": [
+        {
+            "type": "buildings",
+            "className": "TFAR_Land_Communication_F",
+            "supply": 500,
+            "ammo": 0,
+            "fuel": 0,
+            "description": "TFARSignalRepeater(20km)"
+        }
+    ]
+}
