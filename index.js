@@ -61,27 +61,36 @@ fs.readFile(filePath, 'utf8', (err, data) => {
 		}
 	});
 
-	// get all the unique types
-	const types = [];
-	buildList.forEach(item => {
-		if (!types.includes(item.type)) {
-			types.push(item.type);
-		}
-	});
+	// // get all the unique types
+	// const types = [];
+	// buildList.forEach(item => {
+	// 	if (!types.includes(item.type)) {
+	// 		types.push(item.type);
+	// 	}
+	// });
 
-	// create the output file
-	const output = {};
-	types.forEach(type => {
-		output[type] = [];
-	});
+	// // create the output file
+	// const output = {};
+	// types.forEach(type => {
+	// 	output[type] = [];
+	// });
 
-	// sort the buildList by type
-	buildList.forEach(item => {
-		output[item.type].push(item);
-	});
+	// // sort the buildList by type
+	// buildList.forEach(item => {
+	// 	output[item.type].push(item);
+	// });
+
+	// // write the output file
+	// fs.writeFile('./buildList.json', JSON.stringify(output, null, 4), err => {
+	// 	if (err) {
+	// 		console.error('Error writing file:', err);
+	// 		return;
+	// 	}
+	// 	console.log('File written successfully');
+	// });
 
 	// write the output file
-	fs.writeFile('./buildList.json', JSON.stringify(output, null, 4), err => {
+	fs.writeFile('./buildList.json', JSON.stringify(buildList, null, 4), err => {
 		if (err) {
 			console.error('Error writing file:', err);
 			return;
